@@ -1,16 +1,45 @@
-## Hi there 👋
+### Olá! Eu sou Davi Campanaro 👋🚀
 
-<!--
-**DaviCSilva12/DaviCSilva12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-campanaro-silva-%F0%9F%87%A7%F0%9F%87%B7%F0%9F%87%AE%F0%9F%87%B9-4a956626a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviCSilva12)
 
-Here are some ideas to get you started:
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviCSilva12&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Desenvolvedor Full Stack em formação, atualmente cursando Engenharia de Software na Universidade Católica de Brasília (UCB). Tenho experiência com desenvolvimento front-end utilizando *HTML5, **CSS3, **Bootstrap* e *Tailwind CSS, além de conhecimentos em linguagens como **C* e *C#*.
+
+Sou apaixonado por tecnologia e interfaces, com foco em aprendizado contínuo e evolução técnica. Ex-militar do Exército Brasileiro, atuei no Batalhão de Polícia do Exército em Brasília no ano de 2024, onde desenvolvi disciplina, resiliência e espírito de equipe. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
+
+## 💻 Tecnologias que utilizo
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="tailwind" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="csharp" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</div><br/>
+
+## 🖥️ Sistemas Operacionais
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+</div><br/>
+
+## 🌍 Idiomas
+
+- 🇧🇷 Português – Nativo  
+- 🇺🇸 Inglês – Básico  
+- 🇪🇸 Espanhol – Básico
+
+## 📫 Contato
+
+📧 Email: davicampanarosilva@gmail.com  
+📱 Telefone: (61) 99847-4352
+
+---
+
+🔗 Veja meus projetos no [GitHub](https://github.com/DaviCSilva12)
