@@ -1,7 +1,6 @@
 ### Olá! Eu sou Davi Campanaro 👋🚀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-campanaro-silva-%F0%9F%87%A7%F0%9F%87%B7%F0%9F%87%AE%F0%9F%87%B9-4a956626a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviCSilva12)
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviCSilva12&show_icons=true&theme=dark)
 
@@ -38,7 +37,3 @@ Sou apaixonado por tecnologia e interfaces, com foco em aprendizado contínuo e 
 
 📧 Email: davicampanarosilva@gmail.com  
 📱 Telefone: (61) 99847-4352
-
----
-
-🔗 Veja meus projetos no [GitHub](https://github.com/DaviCSilva12)
