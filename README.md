@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Full Stack em formação, atualmente cursando Engenharia de Software na Universidade Católica de Brasília (UCB). Tenho experiência com desenvolvimento front-end utilizando *HTML5, **CSS3, **Bootstrap* e *Tailwind CSS, além de conhecimentos em linguagens como **C* e *C#*.
+**Desenvolvedor Full Stack em formação**, atualmente cursando **Engenharia de Software na Universidade Católica de Brasília (UCB)**. Tenho experiência com desenvolvimento front-end utilizando **HTML5**, **CSS3**, **Bootstrap** e **Tailwind CSS**, além de conhecimentos em linguagens como **C** e **C#**.
 
 Sou apaixonado por tecnologia e interfaces, com foco em aprendizado contínuo e evolução técnica. Ex-militar do Exército Brasileiro, atuei no Batalhão de Polícia do Exército em Brasília no ano de 2024, onde desenvolvi disciplina, resiliência e espírito de equipe. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
 
@@ -26,7 +26,6 @@ Sou apaixonado por tecnologia e interfaces, com foco em aprendizado contínuo e 
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
 </div><br/>
 
 ## 🌍 Idiomas
